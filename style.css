@@ -1,3 +1,7 @@
+html {
+    background-color: #f0f0f5;
+}
+
 header {
     color: #ff6666;
     font-family: Verdana, sans-serif;
@@ -5,7 +9,6 @@ header {
 
 body {
     margin: 10px 20px 20px 20px;
-    background-color: #f0f0f5;
 }
 
 p {
