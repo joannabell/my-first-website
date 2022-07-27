@@ -1,7 +1,9 @@
 header {
     color: #22e4da;
     font-family: Verdana, sans-serif;
+}
+
+body {
     margin-left: 20px;
     margin-top: 10px;
-
 }
