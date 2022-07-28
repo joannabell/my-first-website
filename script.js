@@ -5,4 +5,4 @@ var isFemale = true;
 var flaws = null;
 var description = undefined;
 
-console.log(phrase)
+document.write(phrase)
