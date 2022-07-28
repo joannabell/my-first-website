@@ -1,2 +1,2 @@
 var fruits = ["Apples", 24, false];
-document.write( fruits[0] );
+document.write( fruits.length );
