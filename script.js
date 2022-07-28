@@ -1,1 +1,3 @@
-document.write("<h2 style='color: blue'>Buttons rules!</h2>");
+var phrase = "To be or not to be"
+
+document.write();
