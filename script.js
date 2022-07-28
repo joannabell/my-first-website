@@ -1,3 +1,3 @@
 var phrase = "Strings are fun!";
 
-document.write( phrase.substring(0, 3) );
+document.write( phrase.substring(phrase.indexOf("a"), phrase.length) );
