@@ -1,2 +1,2 @@
-document.write("hello Buttons")
-alert(Buttons is sleepy)
+document.write("hello Buttons");
+alert(Buttons is sleepy);
