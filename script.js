@@ -1,1 +1,3 @@
-document.write ( 2.3456 )
+var number = 6;
+
+document.write( number * (2 + 7) );
