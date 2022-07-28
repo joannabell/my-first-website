@@ -1,3 +1,3 @@
 var phrase = "Strings are fun!";
 
-document.write( phrase )
+document.write( phrase.length )
