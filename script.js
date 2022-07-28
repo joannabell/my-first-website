@@ -1,3 +1,3 @@
 var phrase = "Strings are fun!";
 
-document.write( phrase.indexOf(S) );
+document.write( phrase.indexOf("S") );
