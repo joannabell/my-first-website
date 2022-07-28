@@ -1,3 +1,1 @@
-var number = 6;
-
-document.write( number * (2 + 7) );
+var name = window.prompt("What is your name?");
