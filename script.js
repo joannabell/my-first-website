@@ -1,1 +1,1 @@
-document.write(<h2>Buttons rules!</h2>);
+document.write("<h2>Buttons rules!</h2>");
