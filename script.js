@@ -1,3 +1,3 @@
-var fruits = ["Apples", 24, false];
-fruits[0] = "Oranges";
-document.write( fruits );
+function sayHi() {
+    document.write(<h1>Hello Joanna</h1>);
+}
