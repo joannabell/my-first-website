@@ -1,2 +1,1 @@
-document.write("hello Buttons");
-alert("Buttons is sleepy");
+document.write(<h2>Buttons rules!</h2>);
