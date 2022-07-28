@@ -1,2 +1,2 @@
-var fruits = ["Apples", "Oranges", "Peaches"];
+var fruits = ["Apples", 24, false];
 document.write( fruits );
