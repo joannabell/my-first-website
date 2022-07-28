@@ -1,2 +1,2 @@
-var fruits = new Array("Apples", "Oranges", "Peaches");
+var fruits = ["Apples", "Oranges", "Peaches"];
 document.write( fruits );
