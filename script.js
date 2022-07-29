@@ -1,3 +1,2 @@
-var header = document.getElementById("header");
-header.style.color = "red"
-header.style.backgroundColor = "blue"
+var link = document.getElementById("link");
+link.href = "https://amazon.com"
