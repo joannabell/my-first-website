@@ -1,5 +1,5 @@
  function sayHi() {
     var name = "Joe";
-    alert("<h1>Hello " + name + "</>")
+    document.write("<h1>Hello " + name + "</h1>")
  }
  sayHi()
