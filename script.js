@@ -1,2 +1,2 @@
 var header = document.getElementById("header");
-header.innerHTML = "Buttons";
+header.style.color = "blue"
