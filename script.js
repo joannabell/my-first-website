@@ -1,4 +1,4 @@
-function sayHi() {
-    document.write(<h1>Hi Joanna</h1>);
-}
-sayHi();
+ function sayHi() {
+    document.write("<h1>Hello Joanna</h2>")
+ }
+ sayHi()
